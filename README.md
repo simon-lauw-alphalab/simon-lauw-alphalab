@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simon-lauw-alphalab
 - 👀 I’m interested in Programming Languages, esp Python, C++, Rust, OCaml, and C# 
 - 🌱 I’m currently learning how to build OTC
-- ⚡ Fun fact: I like to smash ~~cocks~~ shuttlecocks >:)
 
 <!---
 simon-lauw-alphalab/simon-lauw-alphalab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
